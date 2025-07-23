@@ -1,11 +1,8 @@
 # My_personal_website
 hey there, welcome to my worksites >-&lt;
 here's a list of content i created: 
-1. Data Projects
-2. AI Projects
-3. Fun Games
-4. Other Coding Projects
-5. Photograhy, Painting & Crative works
-6. Writting
+1. AI Projects
+2. Data sceicne competition Projects
+3. My web for my creative works including but not limited as Photograhy, Paintings & Writtings.
 
 feel free to explore around  /:D /
